@@ -1,0 +1,10 @@
+/.idea/
+**/target/
+**/.flattened-pom.xml
+spring.log*
+*.json
+/rest/src/main/resources/application-localdb.properties
+application-local.properties
+application-localprp.properties
+/logs
+*.log
